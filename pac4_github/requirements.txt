@@ -1,0 +1,7 @@
+warnings
+pandas
+xlrd==1.2.0
+openpyxl
+matplotlib
+
+# mirar lo de python3-tk
